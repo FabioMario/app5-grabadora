@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

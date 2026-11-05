@@ -1,0 +1,17 @@
+{
+    "idf.currentSetup": "/Users/fabio/.espressif/v6.0/esp-idf",
+    "idf.port": "/dev/tty.usbserial-1201",
+    "idf.openOcdConfigs": [
+        "board/esp32s2-kaluga-1.cfg"
+    ],
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s2"
+    },
+    "clangd.path": "/Users/fabio/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build"
+    ],
+    "idf.flashType": "UART"
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/CMakeFiles/bootloader-complete.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/fabio/Downloads/Clase-5-20261104/ejemplos/audio_vu/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
