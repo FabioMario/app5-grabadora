@@ -42,7 +42,7 @@ Al tocar PLAY se escucha el audio grabado y el LED se enciende en verde.
 
 Durante la reproducción se puede cambiar el volumen. Cuando termina, la placa vuelve automáticamente a LISTO.
 
-![Pantalla durante la reproduccion](placa_reproduciendo.jpeg)
+![Pantalla durante la reproduccion](capturas/placa_reproduciendo.jpeg)
 
 ## Funcionamiento del programa
 
